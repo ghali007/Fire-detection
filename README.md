@@ -7,5 +7,6 @@ This repository serves as a Fire detection methods using deep learning models. T
 - Training and testing modes
 - Data augmentation
 - Several state-of-the-art models. 
+- Dataset of fire-like objects such as sunrise, light, sunset, etc...
 - Able to use **any** dataset
 - Evaluation including precision, recall, f1 score, average accuracy.
